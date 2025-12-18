@@ -1,0 +1,8 @@
+venv/
+src/venv/
+__pycache__/
+*.pyc
+web/static/plots/
+web/static/diagrams/
+checkpoints/
+backup_*/
