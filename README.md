@@ -1,4 +1,4 @@
-Speech to Text using CNN–LSTM
+# Speech to Text using CNN–LSTM
 
 This repository contains a **complete, CPU-only Speech-to-Text (ASR) system** using a **CNN–LSTM acoustic model with CTC loss**, plus a **Flask web interface** for live microphone-based transcription and visualization of training plots and system diagrams. It is designed as a **VTU final year project** and is ready for submission and demo.
 
